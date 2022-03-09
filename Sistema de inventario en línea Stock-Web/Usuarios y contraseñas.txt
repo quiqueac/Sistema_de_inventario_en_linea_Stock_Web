@@ -1,0 +1,3 @@
+Usuario: administrador, contraseña: administrador
+Usuario: especial, contraseña: especial
+Usuario: usuario, contraseña: usuario

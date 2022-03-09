@@ -1,0 +1,8 @@
+Se da doble clic en el archivo "xampp-win32-7.3.1-0-VC15-installer"
+Se da clic en si
+Se da clic en ok
+Se da clic en siguiente
+Se da clic en siguiente
+Se da clic en siguiente
+Se da clic en siguiente
+Se da clic en siguiente

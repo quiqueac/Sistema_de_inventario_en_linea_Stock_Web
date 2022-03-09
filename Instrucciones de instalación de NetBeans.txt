@@ -1,0 +1,6 @@
+Se da doble clic en el archivo "netbeans-8.0.2-php-windows"
+Se da clic en siguiente
+Se palomea la opción para aceptar los terminos de licencia
+Se da clic en siguiente
+Se da clic en siguiente
+Se da clic en instalar
